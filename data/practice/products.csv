@@ -1,0 +1,53 @@
+product_id,product_name,category,brand,unit_price
+PROD-0001,Wireless Bluetooth Headphones,Electronics,Pixelo,59.99
+PROD-0002,USB-C Fast Charger 65W,Electronics,Voltix,24.99
+PROD-0003,4K Streaming Media Stick,ELECTRONICS,Pixelo,39.99
+PROD-0004,Portable Bluetooth Speaker,Electronics,Soundmere,44.99
+PROD-0005,Smart Fitness Watch,Electronics,Kestrel,129.00
+PROD-0006,Wireless Optical Mouse, Electronics,Voltix,14.99
+PROD-0007,Noise Cancelling Earbuds,electronics,Soundmere,89.99
+PROD-0008,1TB External SSD,Electroncs,Voltix,94.99
+PROD-0009,Stainless Steel Kettle 1.7L,Home & kitchen,Hearthline,32.50
+PROD-0010,Non-Stick Frying Pan 28cm,Home & Kitchen,Hearthline,22.99
+PROD-0011,Cast Iron Casserole Dish 4.7L,Home & Kitchen,Ashford & Co,64.00
+PROD-0012,Digital Kitchen Scales,Home & Kitchen,Hearthline,15.99
+PROD-0013,Bamboo Chopping Board Set,Home & Kitchen,Ashford & Co,18.50
+PROD-0014,Cordless Stick Vacuum,Home & Kitchen,Northwave,179.00
+PROD-0015,Air Fryer 5.5L,Home & Kitchen,Northwave,84.99
+PROD-0016,French Press Coffee Maker,Home & Kitchen,Ashford & Co,21.99
+PROD-0017,Men's Merino Wool Jumper,Clothing,Larkspur,55.00
+PROD-0018,Women's Waterproof Rain Jacket,Clothing,Fellstone,79.99
+PROD-0019,Unisex Cotton T-Shirt Pack of 3,Clothing,Larkspur,24.00
+PROD-0020,Leather Ankle Boots,Clothing,Bramble & Wick,89.00
+PROD-0021,Slim Fit Chino Trousers,Clothing,Larkspur,38.00
+PROD-0022,Knitted Beanie Hat,Clothing,Fellstone,12.99
+PROD-0023,Wool Blend Scarf,Clothing ,Bramble & Wick,19.50
+PROD-0044,Remote Control Off-Road Car ,Toys & Games,Tumbleweed Toys,42.00
+PROD-0024,Yoga Mat 6mm,Sports & Outdoors,Kestrel,19.99
+PROD-0025,Insulated Water Bottle 750ml,Misc,Fellstone,17.99
+PROD-0026,Adjustable Dumbbell Set 20kg,Sports & Outdoors,Kestrel,74.99
+PROD-0027,2-Person Camping Tent,Sports & Outdoors,Fellstone,99.00
+PROD-0028,Running Armband Phone Holder,Sports & Outdoors,Kestrel,9.99
+PROD-0029,Resistance Bands Set,Sports & Outdoors,Kestrel,13.49
+PROD-0030,Foldable Bike Lock,Sports & Outdoors,Northwave,2799.00
+PROD-0031,The Silent Estuary (Paperback),Books,Harbourside Press,8.99
+PROD-0032,Beginner's Guide to Sourdough,Books,Harbourside Press,-14.99
+PROD-0033,Atlas of British Wildlife,Books,Harbourside Press,24.00
+PROD-0034,Learn Python the Practical Way,Books,Harbourside Press,29.99
+PROD-0035,A History of the North Sea,Books,Harbourside Press,18.99
+PROD-0036,Mindful Gardening Journal,,Harbourside Press,11.50
+PROD-0037,Vitamin C Face Serum 30ml,Beauty & Personal Care,Meadowlark,16.99
+PROD-0038,Electric Toothbrush,Beauty & Personal Care,Voltix,-34.99
+PROD-0039,Argan Oil Shampoo 400ml,Beauty & Personal Care,Meadowlark,7.49
+PROD-0040,Beard Trimmer Kit,Beauty & Personal Care,Voltix,27.50
+PROD-0041,SPF 50 Daily Moisturiser,Beauty & Personal Care,Meadowlark,12.99
+PROD-0042,Wooden Building Blocks 100pc,,Tumbleweed Toys,26.99
+PROD-0043,Family Strategy Board Game,Toys & Games,Tumbleweed Toys,34.99
+PROD-0044,Remote Control Off-Road Car,Toys & Games,Tumbleweed Toys,42.00
+PROD-0045,1000 Piece Jigsaw Puzzle,Toys & Games,Tumbleweed Toys,13.99
+PROD-0046,Plush Teddy Bear 40cm,Toys & Games,Tumbleweed Toys,17.99
+PROD-0047,Solar Powered Garden Lights Set of 8,Garden,Northwave,23.99
+PROD-0001,Wireless Bluetooth Headphones,Electronics,Pixelo,59.99
+PROD-0048,Stainless Steel Hand Trowel,Garden,Ashford & Co,0.00
+PROD-0049,Expandable Garden Hose 30m,Garden,Northwave,29.99
+PROD-0050,Bird Feeder Station,Garden,Meadowlark,21.00
