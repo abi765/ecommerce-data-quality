@@ -13,7 +13,7 @@ You have received customer, product and order data exported from an e-commerce s
 1. Create a database called `ecommerce` in your local PostgreSQL.
 2. In DBeaver, run `sql/01_create_tables.sql` against it.
 3. Import each CSV into its `raw` table using DBeaver's data import.
-4. Run `sql/02_check_load.sql`. Expect 510 customers, 52 products and 2,030 orders
+4. Run `sql/02_check_load.sql`. Expect 510 customers, 52 products and 2,030 orders.
 
 ## Objectives
 
