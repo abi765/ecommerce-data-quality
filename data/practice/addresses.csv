@@ -1,0 +1,611 @@
+address_id,customer_id,address_type,address_line_1,city,postcode,country,latitude,longitude
+ADDR-00001,CUST-00001,billing,93 High Street,London,E3 8WB,United Kingdom,51.48177,-0.15685
+ADDR-00002,CUST-00002,billing,137 Queens Road,Sheffield,S6 8HR,United Kingdom,53.38144,-1.48901
+ADDR-00003,CUST-00002,shipping,96 Meadow View,Bristol,BS2 3FS,United Kingdom,51.46769,-2.57497
+ADDR-00004,CUST-00003,billing,31 George Street,Glasgow,G49 3JD,United Kingdom,55.87090,-4.26973
+ADDR-00005,CUST-00004,billing,6 The Green,London,N19 2FH,United Kingdom,51.50447,-0.14801
+ADDR-00006,CUST-00005,billing,90 Victoria Road,Leeds,LS9 5WP,United Kingdom,53.77828,-1.55972
+ADDR-00007,CUST-00006,billing,3 The Green,Ipswich,IP2 9WZ,United Kingdom,52.04687,1.14360
+ADDR-00008,CUST-00007,billing,10 Rue de la Gare,Lyon,69009,France,,4.86262
+ADDR-00009,CUST-00008,billing,34 West Street,Manchester,M28 5PB,United Kingdom,53.49499,-2.22505
+ADDR-00010,CUST-00008,shipping,97 Springfield Road,Reading,RG3 6EX,United Kingdom,51.44829,-0.99869
+ADDR-00011,CUST-00009,billing,21 Queens Road,Luton,LU2 6TR,United Kingdom,51.89215,-0.40283
+ADDR-00012,CUST-00009,shipping,94 Victoria Road,Norwich,NR5 7JL,United Kingdom,52.62664,1.31939
+ADDR-00013,CUST-00010,billing,Gartenweg 144,Munich,81523,Germany,48.10744,11.55855
+ADDR-00014,CUST-00962,billing,5 Bridge Street,Leeds,LS2 0BJ,United Kingdom,53.81580,-1.57204
+ADDR-00015,CUST-00012,billing,130 Hillside Avenue,Portsmouth,PO1 4JP,United Kingdom,50.82528,-1.10471
+ADDR-00016,CUST-00013,billing,113 Richmond Road,Birmingham,B29 8TW,United Kingdom,52.49495,-1.89308
+ADDR-00017,CUST-00014,billing,90 Meadow View,London,W6 9ST,United Kingdom,51.52272,-0.14940
+ADDR-00018,CUST-00014,shipping,39 George Street,Edinburgh,EH9 6TR,United Kingdom,55.94201,-3.16064
+ADDR-00019,CUST-00015,billing,99 Windsor Drive,Manchester,M36 5NX,United Kingdom,53.48169,-2.21862
+ADDR-00020,CUST-00016,billing,3 Springfield Road,Edinburgh,eh13 8jx,United Kingdom,55.94880,-3.19992
+ADDR-00021,CUST-00017,billing,62 Alexandra Road,Birmingham,B2 3PJ,United Kingdom,52.46635,-1.89656
+ADDR-00022,CUST-00018,billing,44 York Road,Birmingham,B9 7PB,United Kingdom,52.50522,-1.86058
+ADDR-00023,CUST-00019,billing,85 Elm Grove,Swansea,SA7 7TJ,United Kingdom,51.62093,-3.96254
+ADDR-00024,CUST-00020,billing,24 The Green,Manchester,M29 3AH,United Kingdom,53.48713,-2.27130
+ADDR-00025,CUST-00021,billing,96 Mill Lane,Cardiff,CF10 2PR,United Kingdom,51.46732,-3.17678
+ADDR-00026,CUST-00022,billing,52 High Street,Reading,rg2 2es,United Kingdom,51.45413,-0.95186
+ADDR-00027,CUST-00023,billing,8 High Street,Brighton,BN2 5SN,United Kingdom,50.81120,-0.13214
+ADDR-00028,CUST-00023,shipping,73 Springfield Road,Cardiff,CF1 5AJ,United Kingdom,51.47276,-3.16140
+ADDR-00029,CUST-00024,billing,65 London Road,Edinburgh,EH12 0PL,United Kingdom,55.95989,-3.18516
+ADDR-00030,CUST-00025,billing,100 Grange Road,Newcastle upon Tyne,NE15 1ZS,United Kingdom,55.00528,-1.62254
+ADDR-00031,CUST-00026,billing,76 Castle Street,London,NW8 8DN,United Kingdom,51.49900,-0.12684
+ADDR-00032,CUST-00027,billing,37 Springfield Road,Hull,HU2 5YA,United Kingdom,53.79103,-0.33419
+ADDR-00033,CUST-00028,billing,70 O'Connell Street,Cork,T12 G8GK,Ireland,51.90292,-8.46152
+ADDR-00034,CUST-00029,billing,28 Abbey Street,Galway,H91 D78T,Ireland,53.26756,-9.07964
+ADDR-00035,CUST-00030,billing,14 Queens Road,Edinburgh,EH16 0FJ,U.K.,55.92382,-3.16851
+ADDR-00036,CUST-00031,billing,84 North Street,London,SW11 3NS,United Kingdom,51.51414,-0.14876
+ADDR-00037,CUST-00032,billing,88 Bridge Street,Leeds,LS12 5QU,United Kingdom,53.79526,-1.53322
+ADDR-00038,CUST-00033,billing,90 Orchard Close,London,WC2 1QY,United Kingdom,51.47744,-0.15470
+ADDR-00039,CUST-00033,,19 Windsor Drive,Manchester,M27 4PF,United Kingdom,53.46145,-2.22942
+ADDR-00040,CUST-00034,billing,15 Church Road,Cork,T12 946V,Ireland,51.90499,-8.49898
+ADDR-00041,CUST-00034,,142 Main Street,Galway,H91 T1YA,Ireland,53.24766,-9.06336
+ADDR-00042,CUST-00035,billing,24 Victoria Road,York,YO9 9JJ,United Kingdom,53.97661,-1.08303
+ADDR-00043,CUST-00036,billing,73 Victoria Road,London,W9 0PL,United Kingdom,51.53166,-0.13436
+ADDR-00245,CUST-00199,billing,Bahnhofstraße 135,Munich,80347,Germany,48.14750,11.60390
+ADDR-00044,CUST-00037,billing,49 North Street,Leeds,LS13 7RW,United Kingdom,53.80992,-1.53858
+ADDR-00045,CUST-00038,billing,43 Station Road,Plymouth,PL5 0NZ,United Kingdom,50.35202,-4.13690
+ADDR-00046,CUST-00038,shipping,126 Station Road,Belfast,BT6 4QW,United Kingdom,54.61422,-5.91527
+ADDR-00047,CUST-00039,billing,121 Alexandra Road,London,SE24 2BH,United Kingdom,51.50749,-0.12046
+ADDR-00048,CUST-00040,billing,29 Abbey Street,Limerick,V94 HWFC,Ireland,52.68158,-8.64548
+ADDR-00049,CUST-00040,shipping,8 Patrick Street,Galway,H91 473G,Ireland,53.24652,-9.06743
+ADDR-00050,CUST-00041,billing,78 New Road,Leicester,LE7 9NP,United Kingdom,52.63177,-1.12021
+ADDR-00051,CUST-00042,billing,53 London Road,Birmingham,B32 6QX,United Kingdom,52.48241,-1.88304
+ADDR-00052,CUST-00043,billing,55 London Road,Glasgow,G42 7ZW,United Kingdom,55.87250,-4.23987
+ADDR-00053,CUST-00044,billing,73 Windsor Drive,Sheffield,S9 7PA,United Kingdom,53.36142,-1.47888
+ADDR-00054,CUST-00044,shipping,12 George Street,Nottingham,NG9 6UE,United Kingdom,52.95011,-1.14477
+ADDR-00055,CUST-00045,billing,73 Mill Lane,London,NW1 3LA,United Kingdom,51.53051,-0.15399
+ADDR-00056,CUST-00046,billing,138 Church Lane,Coventry,CV1 1QU,United Kingdom,52.42355,-1.51408
+ADDR-00057,CUST-00046,shipping,136 Victoria Road,Liverpool,L25 5YR,United Kingdom,53.43329,-2.96315
+ADDR-00058,CUST-00047,billing,149 Bridge Street,London,EC2 7QR,United Kingdom,51.51974,-0.09926
+ADDR-00059,CUST-00047,Shipping,112 Castle Street,Guildford,GU1 5XH,United Kingdom,51.26320,-0.58454
+ADDR-00060,CUST-00048,billing,78 Meadow View,Plymouth,PL7 9PT,United Kingdom,50.39693,-4.11498
+ADDR-00061,CUST-00049,billing,125 York Road,Exeter,EX4 6NU,United Kingdom,50.74047,-3.55162
+ADDR-00062,CUST-00050,billing,110 George Street,Preston,PR1 7HN,United Kingdom,53.78640,-2.71798
+ADDR-00063,CUST-00051,billing,50 West Street,Hull,HU1 5ZJ,United Kingdom,53.79334,-0.31052
+ADDR-00064,CUST-00051,shipping,18 Castle Street,Portsmouth,PO6 1JH,United Kingdom,50.80837,-1.11508
+ADDR-00065,CUST-00052,billing,135 West Street,Stoke-on-Trent,ST4 1AX,United Kingdom,53.01672,-2.20703
+ADDR-00066,CUST-00053,billing,122 Hillside Avenue,Birmingham,B8 4JX,United Kingdom,52.51607,-1.88631
+ADDR-00067,CUST-00053,shipping,60 Orchard Close,York,YO1 3ER,United Kingdom,53.98667,-1.09390
+ADDR-00068,CUST-00054,billing,108 George Street,London,EC4 7JY,United Kingdom,51.53008,-0.10068
+ADDR-00069,CUST-00055,billing,137 Broad Street,Hull,HU8 9EQ,United Kingdom,53.74998,-0.33299
+ADDR-00070,CUST-00056,billing,41 North Street,Peterborough,PE1 0GQ,United Kingdom,52.54524,-0.22244
+ADDR-00071,CUST-00057,billing,86 Windsor Drive,Cambridge,CB3 4TG,United Kingdom,52.20949,0.10415
+ADDR-00072,CUST-00057,shipping,133 Castle Street,Nottingham,NG11 9ZF,United Kingdom,52.96204,-1.17913
+ADDR-00073,CUST-00058,billing,4 Rue de la Paix,Paris,75003,France,0.00000,0.00000
+ADDR-00074,CUST-00059,billing,23 The Green,London,SW12 8JT,United Kingdom,51.49754,-0.12013
+ADDR-00075,CUST-00060,billing,14 The Green,Cardiff,CF20 5YZ,United Kingdom,51.50859,-3.17026
+ADDR-00076,CUST-00061,billing,91 London Road,Leeds,LS16 7QS,United Kingdom,53.82851,-1.52233
+ADDR-00077,CUST-00062,billing,148 Victoria Road,Sunderland,SR5 3AY,United Kingdom,54.88500,-1.40391
+ADDR-00078,CUST-00063,billing,83 Chapel Street,Belfast,BT13 8UJ,United Kingdom,54.60254,-5.90059
+ADDR-00079,CUST-00064,billing,138 Church Road,Cork,T12 YVF6,Ireland,51.91032,-8.48811
+ADDR-00080,CUST-00065,billing,11 High Street,London,SW11 7JL,United Kingdom,51.52653,-0.11681
+ADDR-00081,CUST-00066,billing,85 Castle Street,London,NW8 3UQ,United Kingdom,51.52796,-0.14571
+ADDR-00082,CUST-00066,shipping,113 High Street,Brighton,BN3 2XD,United Kingdom,50.83452,-0.12120
+ADDR-00083,CUST-00067,billing,15 North Street,London,SE17 4YL,United Kingdom,51.48455,-0.15255
+ADDR-00084,CUST-00067,shipping,56 George Street,Manchester,M26 6NG,United Kingdom,53.45861,-2.27167
+ADDR-00085,CUST-00068,billing,26 London Road,Oxford,OX1 1DX,United Kingdom,51.77674,-1.24183
+ADDR-00086,CUST-00068,shipping,87 Albert Street,London,NW11 4SR,United Kingdom,51.53461,-0.15139
+ADDR-00087,CUST-00069,billing,21 Hillside Avenue,London,N11 3BA,United Kingdom,51.51758,-0.10749
+ADDR-00088,CUST-00070,billing,95 Park Avenue,Dundee,DD2 6DX,United Kingdom,56.43756,-2.96935
+ADDR-00089,CUST-00071,billing,106 Church Lane,London,WC1 1SY,United Kingdom,51.51468,-0.13269
+ADDR-00090,CUST-00072,billing,56 Alexandra Road,Glasgow,G5 6FA,United Kingdom,55.87744,-4.25052
+ADDR-00091,CUST-00073,billing,4 Mill Road,Galway,H91 VG9R,Ireland,53.26574,-9.02737
+ADDR-00092,CUST-00074,billing,37 Castle Street,London,N12 7UJ,United Kingdom,51.51568,-0.14077
+ADDR-00093,CUST-00074,shipping,61 George Street,Bristol,BS8 5UG,United Kingdom,51.47622,-2.57991
+ADDR-00094,CUST-00075,billing,127 Chapel Street,Bournemouth,BH4 1RP,United Kingdom,50.73599,-1.86521
+ADDR-00095,CUST-00076,billing,139 Church Lane,London,N2 7JY,United Kingdom,51.50437,-0.11567
+ADDR-00096,CUST-00077,billing,Keizersgracht 4,Utrecht,3551 GT,Netherlands,52.10305,5.12716
+ADDR-00097,CUST-00078,billing,Kerkstraat 104,Amsterdam,1014 AR,Netherlands,52.36469,4.92984
+ADDR-00098,CUST-00079,billing,142 North Street,Coventry,CV4 3BJ,United Kingdom,52.43348,-1.49233
+ADDR-00099,CUST-00080,billing,133 Albert Street,Newcastle upon Tyne,NE26 8DT,United Kingdom,55.00647,-1.60417
+ADDR-00100,CUST-00081,billing,84 High Street,Brighton,BN1 2ES,United Kingdom,50.84051,-0.11931
+ADDR-00101,CUST-00082,billing,76 Grange Road,Coventry,CV5 0WT,United Kingdom,52.41896,-1.53581
+ADDR-00102,CUST-00083,billing,131 New Road,Cardiff,CF9 9BA,United Kingdom,51.45710,-3.17183
+ADDR-00103,CUST-00084,billing,42 Church Lane,London,SE23 0TY,United Kingdom,51.48784,-0.10847
+ADDR-00104,CUST-00084,shipping,61 Oak Tree Close,Aberdeen,AB13 6YY,United Kingdom,57.12548,-2.10051
+ADDR-00105,CUST-00085,billing,142 Oak Tree Close,Glasgow,G29 7AD,United Kingdom,55.86634,-4.27122
+ADDR-00106,CUST-00085,shipping,56 Albert Street,Oxford,OX4 1EE,United Kingdom,51.74122,-1.26262
+ADDR-00107,CUST-00086,billing,21 Church Lane,Newcastle upon Tyne,NE14 1NG,United Kingdom,54.96686,-1.64137
+ADDR-00108,CUST-00086,shipping,55 Park Avenue,Brighton,BN1 5PJ,United Kingdom,50.82923,-0.13676
+ADDR-00109,CUST-00087,billing,126 Castle Street,Brighton,BN1 1WW,United Kingdom,50.83413,-0.15094
+ADDR-00110,CUST-00088,billing,27 London Road,London,E3 7DZ,United Kingdom,51.53496,-0.14702
+ADDR-00111,CUST-00089,billing,38 Rue de la Gare,Paris,75016,France,48.85087,2.37540
+ADDR-00112,CUST-00089,shipping,91 Boulevard Saint-Michel,Lyon,69002,France,4.85046,45.77041
+ADDR-00113,CUST-00090,billing,2 Manor Road,Leicester,LE8 8RZ,United Kingdom,52.63600,-1.11847
+ADDR-00114,CUST-00091,billing,37 Queens Road,London,SE3 2BR,United Kingdom,51.53061,-0.14070
+ADDR-00115,CUST-00092,billing,122 High Street,Cardiff,CF13 9HS,United Kingdom,51.49688,-3.16506
+ADDR-00116,CUST-00093,billing,15 Richmond Road,Dundee,DD2 9AS,United Kingdom,56.48925,-2.99729
+ADDR-00117,CUST-00093,shipping,117 New Road,London,EC3 3SZ,United Kingdom,51.48688,-0.14539
+ADDR-00118,CUST-00094,billing,121 Springfield Road,Birmingham,B19 5UQ,United Kingdom,52.47729,-1.89257
+ADDR-00119,CUST-00095,billing,133 North Street,Belfast, BT2 1LB ,United Kingdom,54.59267,-5.91912
+ADDR-00120,CUST-00096,billing,100 Church Lane,Derby,DE1 4ZX,United Kingdom,52.92506,-1.49213
+ADDR-00121,CUST-00097,billing,148 Station Road,Norwich,NR1 2LP,United Kingdom,52.64982,1.31014
+ADDR-00122,CUST-00098,billing ,Gartenweg 65,Hamburg,21014,Germany,53.52684,10.00265
+ADDR-00123,CUST-00099,billing,103 Bridge Street,London,SE5 3ES,United Kingdom,51.50229,-0.11371
+ADDR-00124,CUST-00100,billing,127 York Road,Newcastle upon Tyne,NE18 6PQ,United Kingdom,54.97126,-1.61578
+ADDR-00125,CUST-00100,shipping,107 Oak Tree Close,London,W8 5JP,United Kingdom,51.48315,-0.10588
+ADDR-00126,CUST-00101,billing,81 Elm Grove,Birmingham,B39 3EE,United Kingdom,52.50058,-1.89995
+ADDR-00127,CUST-00102,billing,52 Richmond Road,Edinburgh,EH10 1XQ,United Kingdom,55.97728,-3.17148
+ADDR-00128,CUST-00102,SHIPPING,30 Elm Grove,Norwich,NR4 4TN,United Kingdom,52.62227,1.27996
+ADDR-00129,CUST-00103,billing,49 Queens Road,Leicester,LE3 7JJ,United Kingdom,52.65556,-1.14196
+ADDR-00130,CUST-00104,billing,74 Grange Road,Peterborough,PE1 9EU,United Kingdom,52.58323,-0.24956
+ADDR-00131,CUST-00105,billing,21 Castle Street,Sheffield,S20 1LX,United Kingdom,53.39759,-1.49307
+ADDR-00132,CUST-00106,billing,86 Springfield Road,Milton Keynes,MK8 6UU,United Kingdom,52.03952,-0.73564
+ADDR-00133,CUST-00106,shipping,133 Kings Road,Norwich,NR4 1FD,United Kingdom,52.60095,1.29339
+ADDR-00134,CUST-00107,billing,83 Hillside Avenue,London,E8 1UP,United Kingdom,51.47795,-0.15085
+ADDR-00135,CUST-00108,billing,24 Victoria Road,Nottingham,NG18 2AX,United Kingdom,52.97476,-1.17093
+ADDR-00136,CUST-00109,billing,133 The Green,Guildford,gu4 3na,United Kingdom,51.24907,-0.54372
+ADDR-00137,CUST-00110,billing,33 Richmond Road,London,EC1 6TU,United Kingdom,51.52099,-0.10776
+ADDR-00138,CUST-00111,billing,7 Willow Way,London,SE12 4WH,United Kingdom,51.49743,-0.11269
+ADDR-00139,CUST-00112,billing,68 Alexandra Road,London,N12 8FS,United Kingdom,51.53428,-0.14303
+ADDR-00140,CUST-00112,shipping,135 Victoria Road,Leicester,LE5 5RE,United Kingdom,52.63181,-1.14712
+ADDR-00141,CUST-00113,billing,96 High Street,London,E8 1QU,United Kingdom,51.50335,-0.14884
+ADDR-00142,CUST-00114,billing,131 New Road,Aberdeen,AB15 0PX,United Kingdom,,-2.10592
+ADDR-00143,CUST-00115,billing,95 Broad Street,Norwich,NR1 9EU,United Kingdom,52.65039,1.30087
+ADDR-00144,CUST-00116,billing,148 Kings Road,Reading,RG3 6DA,United Kingdom,51.47541,-0.94884
+ADDR-00145,CUST-00117,billing,2 Willow Way,Southampton,SO14 5LL,United Kingdom,50.89220,-1.38955
+ADDR-00146,CUST-00117,shipping,110 Hillside Avenue,Manchester,M5 1EA,United Kingdom,53.45236,-2.22493
+ADDR-00147,CUST-00118,billing,124 West Street,London,EC2 0SG,United Kingdom,51.50638,-0.15196
+ADDR-00148,CUST-00119,billing,16 Orchard Close,Edinburgh,EH12 7ZD  ,United Kingdom,55.94874,-3.19351
+ADDR-00149,CUST-00120,billing,5 Kings Road,Coventry, CV3 7NQ,United Kingdom,52.42270,-1.50125
+ADDR-00150,CUST-00121,billing,88 High Street,Bath,BA2 5ER,United Kingdom,51.40808,-2.34227
+ADDR-00151,CUST-00122,billing,54 Mill Lane,Manchester,M9 6SS,United Kingdom,53.47407,-2.22812
+ADDR-00152,CUST-00123,billing,64 Victoria Road,Nottingham,NG10 6DJ,United Kingdom,52.95190,-1.13268
+ADDR-00153,CUST-00536,billing,65 O'Connell Street,Dublin,D18 EWNW,Ireland,53.37843,-6.25214
+ADDR-00155,CUST-00126,billing,119 Hillside Avenue,Swansea,SA7 9QW,United Kingdom,51.65029,-3.92528
+ADDR-00156,CUST-00127,billing,104 Queens Road,Stoke-on-Trent,ST3 8AJ,UK,52.97877,-2.16001
+ADDR-00157,CUST-00127,shipping,21 Park Avenue,London,EC1 7UY,United Kingdom,51.50091,-0.11764
+ADDR-00158,CUST-00128,billing,144 Elm Grove,London,SE20 3HP ,United Kingdom,51.51007,-0.15173
+ADDR-00159,CUST-00129,billing,24 Hillside Avenue,Newcastle upon Tyne,NE3 0XB,United Kingdom,54.95286,-1.62534
+ADDR-00160,CUST-00129,shipping,24 Grange Road,Leeds,LS13 7BN,United Kingdom,53.79844,-1.53178
+ADDR-00161,CUST-00130,billing,112 York Road,London,NW2 0FP,United Kingdom,51.52583,-0.12817
+ADDR-00162,CUST-00131,billing,34 Park Avenue,Stoke-on-Trent,ST5 7BY,United Kingdom,52.97620,-2.19077
+ADDR-00163,CUST-00132,billing,42 Main Street,Dublin,D10 BCWX,Ireland,53.34094,-6.25466
+ADDR-00164,CUST-00133,billing,52 Church Lane,Oxford,OX4 1EA,United Kingdom,51.74986,-1.28183
+ADDR-00165,CUST-00134,billing,101 York Road,London,WC1 9XD,United Kingdom,51.53005,-0.11825
+ADDR-00166,CUST-00135,billing,3 Victoria Road,Peterborough,PE3 5FG,United Kingdom,52.57651,-0.22852
+ADDR-00167,CUST-00136,billing,130 Bridge Street,London,E6 6PA,United Kingdom,51.51440,-0.12703
+ADDR-00168,CUST-00136,shipping,7 Windsor Drive,Edinburgh,EH10 3AD,United Kingdom,55.92513,-3.20936
+ADDR-00169,CUST-00137,billing,Calle de Alcalá 137,Madrid,28042,Spain,40.40948,-3.69903
+ADDR-00170,CUST-00138,billing,78 Oak Tree Close,Oxford,OX4 8XH,United Kingdom,51.74697,-1.23411
+ADDR-00171,CUST-00139,billing,115 George Street,Bath,BA1 9BG,United Kingdom,51.38877,-2.35261
+ADDR-00172,CUST-00139,shipping,120 Hillside Avenue,Manchester,M32 2RA,United Kingdom,53.50527,-2.25685
+ADDR-00173,CUST-00140,billing,66 Castle Street,Manchester,M2 2BJ,United Kingdom,53.50098,-2.24054
+ADDR-00174,CUST-00141,billing,41 London Road,Leeds,LS5 8BD,United Kingdom,53.82405,-1.56501
+ADDR-00175,CUST-00142,billing,78 Bridge Street,Cambridge,CB2 0ZE,United Kingdom,52.21892,0.15073
+ADDR-00176,CUST-00143,billing,100 Hillside Avenue,London,E14 8XG,United Kingdom,51.52054,-0.12749
+ADDR-00177,CUST-00144,billing,88 Mill Lane,Manchester,M5 3TD,United Kingdom,53.46125,-2.22803
+ADDR-00178,CUST-00144,shipping,11 Oak Tree Close,Birmingham,B26 3NX,United Kingdom,52.48558,-1.87144
+ADDR-00179,CUST-00145,billing,132 Kings Road,Birmingham,B9 8QG,United Kingdom,52.50734,-1.89273
+ADDR-00180,CUST-00145,shipping,58 Victoria Road,Hull,HU9 6PD,United Kingdom,53.75397,-0.34996
+ADDR-00181,CUST-00146,billing,34 Alexandra Road,Peterborough,PE4 6LT,United Kingdom,52.57556,-0.22918
+ADDR-00182,CUST-00147,billing,99 Grange Road,London,E14 1NW,United Kingdom,51.50808,-0.15749
+ADDR-00183,CUST-00148,billing,45 Queens Road,London,WC2 9US,United Kingdom,51.52822,-0.10130
+ADDR-00184,CUST-00149,billing,70 The Green,Portsmouth,PO2 5YX,United Kingdom,50.81356,-1.07959
+ADDR-00185,CUST-00150,billing,132 Patrick Street,Cork,T12 WE6W,Ireland,51.91070,-8.47363
+ADDR-00186,CUST-00151,billing,56 Park Avenue,Leeds,LS24 9LW,United Kingdom,53.81659,-1.57090
+ADDR-00187,CUST-00152,billing,77 Queens Road,London,W2 2PZ,United Kingdom,51.51142,-0.12969
+ADDR-00188,CUST-00153,billing,2 Willow Way,Bristol,BS4 2FF,United Kingdom,51.46481,-2.60904
+ADDR-00189,CUST-00154,billing,27 Windsor Drive,Cardiff,CF18 8NQ,United Kingdom,51.49371,-3.17668
+ADDR-00190,CUST-00155,billing,45 George Street,Manchester,M13 0UB,United Kingdom,53.45660,-2.23567
+ADDR-00191,CUST-00156,billing,63 Alexandra Road,Hull,HU3 9GH,United Kingdom,53.75918,-0.34446
+ADDR-00192,CUST-00157,billing,118 Church Lane,London,SW5 2YT,United Kingdom,51.48593,-0.11786
+ADDR-00193,CUST-00158,billing,93 Rue de la Gare,Paris,75002,France,48.84486,2.36367
+ADDR-00194,CUST-00159,billing,30 Station Road,London,SE14 4EY,United Kingdom,51.49099,-0.10360
+ADDR-00195,CUST-00160,billing,85 New Road,Cardiff,CF17 9YA,United Kingdom,-51.46714,-3.16879
+ADDR-00196,CUST-00161,billing,132 Manor Road,Bristol,BS14 0SU,United Kingdom,51.45694,-2.57878
+ADDR-00197,CUST-00162,billing,11 Meadow View,Guildford,GU1 9YA,United Kingdom,51.22583,-0.57539
+ADDR-00198,CUST-00163,billing,57 Alexandra Road,Leeds,LS2 6RX,United Kingdom,53.82547,-1.57459
+ADDR-00199,CUST-00164,billing,45 The Green,Bradford,BD12 5SL,United Kingdom,53.79151,-1.76096
+ADDR-00200,CUST-00165,billing,88 Station Road,Leicester,LE4 6EL,United Kingdom,52.63053,-1.12976
+ADDR-00201,CUST-00166,billing,61 Castle Street,London,WC1 4LL,United Kingdom,51.49919,-0.10894
+ADDR-00202,CUST-00167,billing,111 Manor Road,Coventry,CV6 1UR,United Kingdom,52.40691,-1.53556
+ADDR-00203,CUST-00168,billing,5 London Road,London,W2 7QP,United Kingdom,51.52764,-0.13573
+ADDR-00204,CUST-00168,shipping,110 Elm Grove,London,W11 1WP,United Kingdom,51.50483,-0.11565
+ADDR-00205,CUST-00169,billing,49 Kings Road,London,E4 3JN,United Kingdom,51.51264,-0.15255
+ADDR-00206,CUST-00170,billing,1 The Green,Manchester,M28 1UL,United Kingdom,53.49418,-2.25805
+ADDR-00207,CUST-00171,billing,4 High Street,Bath,BA2 8SZ,United Kingdom,51.37383,-2.38159
+ADDR-00208,CUST-00171,shipping,7 George Street,London,E16 0FQ,United Kingdom,51.53467,-0.15260
+ADDR-00209,CUST-00172,billing,86 Alexandra Road,London,SE1 1LU,United Kingdom,51.49144,
+ADDR-00210,CUST-00173,billing,84 Castle Street,Swansea,SA7 4EH,United Kingdom,51.63631,-3.91426
+ADDR-00211,CUST-00174,billing,3 Albert Street,London,SW8 4DG,United Kingdom,51.50978,-0.12624
+ADDR-00212,CUST-00175,billing,14 Alexandra Road,Leeds,LS14 4YQ,United Kingdom,53.79871,-1.56328
+ADDR-00213,CUST-00175,shipping,50 Springfield Road,Chelmsford,CM2 2QF,United Kingdom,51.75378,0.48348
+ADDR-00214,CUST-00176,billing,111 Manor Road,Edinburgh,EH5 1JS,United Kingdom,55.96208,-3.20929
+ADDR-00215,CUST-00177,billing,65 Elm Grove,Nottingham,NG1 4SJ,United Kingdom,52.97093,-1.14948
+ADDR-00216,CUST-00178,billing,61 West Street,Wolverhampton,WV6 2BP,United Kingdom,52.56643,-2.15073
+ADDR-00217,CUST-00179,billing,127 Bridge Street,Stoke-on-Trent,ST3 4EA,United Kingdom,53.01315,-2.16115
+ADDR-00218,CUST-00180,billing,129 Orchard Close,Edinburgh,EH11 6YE,United Kingdom,55.94686,-3.19483
+ADDR-00219,CUST-00181,billing,140 Queens Road,Birmingham,B37 3UU,united kingdom,52.50799,-1.89037
+ADDR-00220,CUST-00182,billing,64 Albert Street,London,SE4 3ZW,United Kingdom,51.49945,-0.15015
+ADDR-00221,CUST-00182,SHIPPING,52 Elm Grove,London,E16 1RF,United Kingdom,51.52273,-0.12728
+ADDR-00222,CUST-00183,billing,93 Broad Street,Leeds,LS17 9SA,United Kingdom,53.80676,-1.54381
+ADDR-00223,CUST-00183,shipping,16 Oak Tree Close,Middlesbrough,TS4 9UL,United Kingdom,54.58771,-1.20537
+ADDR-00224,CUST-00184,billing,21 Park Avenue,London,EC2 2NH,United Kingdom,51.49331,-0.13478
+ADDR-00225,CUST-00185,billing,108 Queens Road,Brighton,BN2 5YG,United Kingdom,50.80707,-0.15419
+ADDR-00226,CUST-00186,billing,136 Station Road,London,E17 1SY,United Kingdom,51.47865,-0.13645
+ADDR-00227,CUST-00186,shipping,18 New Road,Coventry,CV6 3LD,United Kingdom,52.43527,-1.53691
+ADDR-00228,CUST-00187,billing,142 Meadow View,Leeds,LS11 1ZX,United Kingdom,53.78638,-1.57101
+ADDR-00229,CUST-00188,billing,6 Church Lane,Edinburgh,EH16 0FH,United Kingdom,55.96963,-3.18660
+ADDR-00230,CUST-00189,billing,36 Oak Tree Close,Ipswich,IP1 1LA,United Kingdom,52.05344,1.14906
+ADDR-00231,CUST-00190,billing,12 Castle Street,Leicester,LE9 5YP,United Kingdom,52.65609,-1.11894
+ADDR-00232,CUST-00190,shipping,41 Manor Road,Preston,PR1 1NW,United Kingdom,53.73741,-2.72120
+ADDR-00233,CUST-00191,billing,64 Park Avenue,Bristol,BS6 5BY,United Kingdom,51.44586,-2.58867
+ADDR-00234,CUST-00191,shipping,58 George Street,Liverpool,L39 9EX,United Kingdom,53.42200,-2.96982
+ADDR-00235,CUST-00192,billing,33 York Road,London,EC2 6NZ,United Kingdom,51.48752,-0.11519
+ADDR-00236,CUST-00193,billing,64 Broad Street,London,SW11 9LH,United Kingdom,51.51946,-0.12277
+ADDR-00237,CUST-00194,billing,119 Chapel Street,London,WC1 4JF,United Kingdom,51.51069,-0.10825
+ADDR-00238,CUST-00194,shipping,31 Meadow View,London,SE11 3NB,United Kingdom,51.49437,-0.11982
+ADDR-00239,CUST-00195,billing,62 High Street,Sunderland,SR5 9WG,United Kingdom,54.90420,-1.41109
+ADDR-00240,CUST-00196,billing,87 Kings Road,London,EC3 7DG,United Kingdom,51.51355,-0.13346
+ADDR-00241,CUST-00196,shipping,89 West Street,Belfast,BT1 3YR,United Kingdom,54.59363,-5.95588
+ADDR-00242,CUST-00197,billing,133 Station Road,London,SW10 9ZR,United Kingdom,51.51050,-0.11891
+ADDR-00243,CUST-00198,billing,Prinsengracht 117,Amsterdam,1105 MJ,Netherlands,52.35454,4.91153
+ADDR-00244,CUST-00198,shipping,Molenweg 129,Rotterdam,3018 AZ,Netherlands,51.93388,4.49585
+ADDR-00245,CUST-00199,billing,Bahnhofstraße 135,Munich,80347,Germany,48.14750,11.60390
+ADDR-00246,CUST-00199,shipping,Hauptstraße 82,Munich,81434,Germany,48.15664,11.60348
+ADDR-00247,CUST-00200,billing,104 Albert Street,Leeds,LS28 3XB,United Kingdom,53.82939,-1.52386
+ADDR-00248,CUST-00201,billing,129 Victoria Road,Liverpool,L36 7DA,United Kingdom,53.42338,-2.97913
+ADDR-00249,CUST-00201,shipping,17 Springfield Road,Manchester,M37 1XZ,United Kingdom,53.46085,-2.21522
+ADDR-00250,CUST-00202,billing,1 North Street,Reading,RG2 7TT,United Kingdom,51.43850,-0.98808
+ADDR-00251,CUST-00203,billing,134 Castle Street,Chelmsford,CM2 1YL,United Kingdom,51.71179,0.46421
+ADDR-00252,CUST-00204,billing,147 Station Road,London,W9 6SY,United Kingdom,51.50811,-0.13141
+ADDR-00253,CUST-00205,billing,107 Castle Street,Cardiff,CF3 3AH,United Kingdom,51.49978,-3.20869
+ADDR-00254,CUST-00206,billing,140 New Road,London,NW5 8YZ,United Kingdom,51.52216,-0.11834
+ADDR-00255,CUST-00207,billing,100 Meadow View,Nottingham,NG3 0UQ,United Kingdom,52.95358,-1.15331
+ADDR-00256,CUST-00208,billing,115 Willow Way,Nottingham,NG10 5GQ,United Kingdom,52.97898,-1.14139
+ADDR-00257,CUST-00209,billing,118 Windsor Drive,Bristol,BS6 2PB,United Kingdom,51.45858,-2.59462
+ADDR-00258,CUST-00210,billing,107 George Street,London,N9 0DY,United Kingdom,51.51624,-0.12063
+ADDR-00259,CUST-00211,billing,123 Alexandra Road,Luton,LU2 9TG,United Kingdom,51.89107,-0.44253
+ADDR-00260,CUST-00212,billing,140 Hillside Avenue,Derby,DE3 0XA,United Kingdom,52.94625,-1.47729
+ADDR-00261,CUST-00213,billing,76 Church Lane,Leicester,LE2 5QQ,United Kingdom,52.61496,-1.10989
+ADDR-00262,CUST-00214,billing,59 Church Road,Limerick,V94 204V,Ireland,52.65400,-8.63458
+ADDR-00263,CUST-00215,billing,11 Oak Tree Close,London,NW9 0DJ,United Kingdom,51.48816,-0.15504
+ADDR-00264,CUST-00216,billing,41 Orchard Close,Manchester,M10 3SA,United Kingdom,53.48067,-2.23831
+ADDR-00265,CUST-00217,billing,6 North Street,London,EC2 4NR,United Kingdom,51.49100,-0.10035
+ADDR-00266,CUST-00218,billing,53 Church Lane,Cambridge,CB4 4ZL,United Kingdom,52.18942,0.10826
+ADDR-00267,CUST-00218,shipping,127 George Street,London,SE4 6ZF,United Kingdom,51.51643,-0.12202
+ADDR-00268,CUST-00219,billing,105 George Street,Northampton,NN5 7HZ,United Kingdom,,-0.91932
+ADDR-00269,CUST-00220,billing,81 New Road,Stoke-on-Trent,ST6 0LY,United Kingdom,53.00098,-2.19624
+ADDR-00270,CUST-00220,shipping,93 Park Avenue,Portsmouth,PO6 7ZY,United Kingdom,50.80117,-1.08606
+ADDR-00124,CUST-00100,billing,127 York Road,Newcastle upon Tyne,NE18 6PQ,United Kingdom,54.97126,-1.61578
+ADDR-00271,CUST-00221,billing,71 Oak Tree Close,Belfast,BT6 5JG,United Kingdom,54.59976,-5.91136
+ADDR-00272,CUST-00222,billing,81 Elm Grove,Manchester,M13 4UN,United Kingdom,53.46995,-2.26822
+ADDR-00273,CUST-00222,shipping,94 Bridge Street,Chelmsford,CM2 2QD,United Kingdom,51.72468,0.44080
+ADDR-00274,CUST-00223,billing,Bahnhofstraße 139,Hamburg,21474,Germany,53.53499,9.96453
+ADDR-00321,CUST-00261,shipping,146 Grange Road,Belfast,BT2 4UA,United Kingdom,54.61157,-5.94903
+ADDR-00275,CUST-00224,billing,43 Windsor Drive,Bath,BA1 5XE,United Kingdom,51.39935,-2.37173
+ADDR-00276,CUST-00225,billing,94 Mill Lane,London,N19 3SY,United Kingdom,51.51736,-0.10944
+ADDR-00277,CUST-00226,billing,54 Patrick Street,Dublin,D05 HE32,Ireland,53.32772,-6.28277
+ADDR-00278,CUST-00227,billing,22 Orchard Close,Glasgow,G14 3LN,United Kingdom,55.86919,-4.23489
+ADDR-00279,CUST-00228,billing,111 Meadow View,Glasgow,G9 5DD,United Kingdom,55.85960,-4.23429
+ADDR-00280,CUST-00229,billing,Stationsstraat 5,Rotterdam,3025 SV,Netherlands,51.94862,4.47228
+ADDR-00281,CUST-00230,billing,100 London Road,London,SE3 7NH,United Kingdom,51.49335,-0.10032
+ADDR-00282,CUST-00230,shipping,50 North Street,London,SE7 6XY,United Kingdom,51.47885,-0.11444
+ADDR-00283,CUST-00231,billing,127 York Road,London,WC2 7GL,United Kingdom,51.48414,-0.14980
+ADDR-00284,CUST-00231,shipping,71 Park Avenue,Birmingham,B8 4TT,United Kingdom,52.48475,-1.86542
+ADDR-00285,CUST-00232,billing,5 Kings Road,Newcastle upon Tyne,NE1 0DG,United Kingdom,54.98825,-1.61504
+ADDR-00286,CUST-00232,shipping,30 Bridge Street,Manchester,M32 9NJ,United Kingdom,53.45271,-2.24871
+ADDR-00287,CUST-00233,billing,4 London Road,Swansea,SA4 3TJ,United Kingdom,51.63241,-3.92220
+ADDR-00288,CUST-00234,billing,77 Elm Grove,Birmingham,B27 2GQ,United Kingdom,52.47032,-1.86221
+ADDR-00289,CUST-00235,billing,87 George Street,Manchester,M19 1QQ,United Kingdom,53.50676,-2.22375
+ADDR-00290,CUST-00236,billing,70 O'Connell Street,Dublin,D23 A11G,Ireland,53.37824,-6.25024
+ADDR-00291,CUST-00237,billing,28 Willow Way,London,WC2 0YP,United Kingdom,51.53646,-0.10324
+ADDR-00292,CUST-00238,billing,98 York Road,Middlesbrough,TS4 4PX,United Kingdom,54.59534,-1.25023
+ADDR-00293,CUST-00239,billing,105 Broad Street,Coventry,CV4 2RR,United Kingdom,52.42739,-1.53937
+ADDR-00294,CUST-00240,billing,91 Willow Way,London,SW2 5RZ,United Kingdom,51.51234,-0.12363
+ADDR-00295,CUST-00240,shipping,14 Victoria Road,Aberdeen,AB12 9FT,United Kingdom,57.13008,-2.11043
+ADDR-00296,CUST-00241,billing,79 Orchard Close,Reading,RG7 6BP,United Kingdom,51.45978,-0.99880
+ADDR-00297,CUST-00242,billing,68 Manor Road,Bristol,BS6 3SR,United Kingdom,51.45815,-2.61251
+ADDR-00298,CUST-00243,billing,89 Springfield Road,London,E1 0TZ,United Kingdom,51.52940,-0.14277
+ADDR-00299,CUST-00243,shipping,27 Alexandra Road,Newcastle upon Tyne,NE15 4XW,United Kingdom,54.95117,-1.60715
+ADDR-00300,CUST-00244,billing,30 Patrick Street,Cork,T12 NY7D,Ireland,51.89572,-8.49863
+ADDR-00301,CUST-00244,shipping,66 Patrick Street,Limerick,V94 R71K,Ireland,52.66998,-8.61724
+ADDR-00302,CUST-00245,billing,Stationsstraat 115,Utrecht,3541 TX,Netherlands,52.08022,5.13324
+ADDR-00303,CUST-00245,shipping,Molenweg 14,Utrecht,3554 LG,Netherlands,52.08341,5.14890
+ADDR-00304,CUST-00246,billing,133 The Green,Manchester,M11 1EW,United Kingdom,53.50240,-2.23086
+ADDR-00305,CUST-00247,billing,11 London Road,Plymouth,PL7 5XQ,United Kingdom,50.37222,-4.15761
+ADDR-00306,CUST-00248,billing,69 Hillside Avenue,London,SE8 3ZR,United Kingdom,51.50933,-0.12398
+ADDR-00307,CUST-00249,billing,90 Boulevard Saint-Michel,Lyon,69002,France,45.77505,24.82113
+ADDR-00308,CUST-00250,billing,76 The Green,Manchester,M1 6GF,United Kingdom,53.49639,-2.23424
+ADDR-00309,CUST-00251,billing,56 Alexandra Road,Leicester,LE2 0LE,United Kingdom,52.66348,-1.12812
+ADDR-00310,CUST-00252,billing,138 Windsor Drive,Brighton,BN3 2PZ,United Kingdom,50.80124,-0.13536
+ADDR-00311,CUST-00253,billing,60 Victoria Road,London,EC4 6HZ,United Kingdom,51.47845,-0.11414
+ADDR-00312,CUST-00254,billing,81 North Street,Leeds,LS28 1JP,United Kingdom,53.80071,-1.56334
+ADDR-00313,CUST-00255,billing,92 Church Lane,Cardiff,CF12 7DH,UK,51.48010,-3.19672
+ADDR-00314,CUST-00256,billing,136 Manor Road,Birmingham,B7 9SN,United Kingdom,52.45795,-1.89277
+ADDR-00315,CUST-00257,billing,144 Orchard Close,London,WC2 7WF,United Kingdom,51.53600,-0.15605
+ADDR-00316,CUST-00258,billing,107 Victoria Road,Brighton,BN2 5AZ,United Kingdom,50.79883,-0.15840
+ADDR-00317,CUST-00258,shipping,15 Chapel Street,Southampton,SO15 5ZE,United Kingdom,50.93016,-1.41072
+ADDR-00318,CUST-00259,billing,36 Church Lane,Manchester,M29 1PJ,United Kingdom,53.49592,-2.23536
+ADDR-00319,CUST-00260,billing,147 Victoria Road,Oxford,OX3 8GH,United Kingdom,51.77020,-1.25989
+ADDR-00320,CUST-00261,billing,21 Springfield Road,London,SE14 2EZ,United Kingdom,51.52377,-0.10880
+ADDR-00321,CUST-00261,shipping,146 Grange Road,Belfast,BT2 4UA,United Kingdom,54.61157,-5.94903
+ADDR-00322,CUST-00262,billing,50 George Street,London,WC2 7FE,United Kingdom,51.49193,-0.09967
+ADDR-00323,CUST-00263,billing,117 Mill Lane,London,EC1 8JN,United Kingdom,51.50200,-0.11599
+ADDR-00324,CUST-00264,billing,72 Albert Street,Reading,RG3 6JJ,United Kingdom,51.45739,-0.96573
+ADDR-00325,CUST-00265,billing,71 Church Road,Limerick,V94 61H9,Ireland,0.00000,0.00000
+ADDR-00326,CUST-00266,billing,93 Patrick Street,Galway,H91 K8PE,Ireland,53.28274,-9.08227
+ADDR-00327,CUST-00267,billing,69 Willow Way,London,SE1 0AH,United Kingdom,51.48776,-0.15405
+ADDR-00328,CUST-00268,billing,53 North Street,Edinburgh,EH5 2GG,United Kingdom,55.95155,-3.21462
+ADDR-00329,CUST-00269,billing,73 Windsor Drive,London,NW1 7RF,United Kingdom,51.51147,-0.13660
+ADDR-00330,CUST-00269,shipping,60 North Street,Norwich,NR6 5ER,United Kingdom,52.65350,1.31299
+ADDR-00331,CUST-00270,billing,54 Alexandra Road,Manchester,M20 5UJ,United Kingdom,53.49112,-2.24400
+ADDR-00332,CUST-00271,billing,83 Meadow View,Liverpool,L11 1EP,United Kingdom,53.40831,-2.98904
+ADDR-00333,CUST-00272,billing,75 Church Lane,London,WC1 7AR,United Kingdom,51.50220,-0.10645
+ADDR-00334,CUST-00273,billing,46 Elm Grove,Southampton,SO17 6LT,United Kingdom,50.93776,-1.39552
+ADDR-00335,CUST-00273,shipping,122 Church Lane,Middlesbrough,TS8 7NW,United Kingdom,54.55524,-1.25803
+ADDR-00336,CUST-00274,billing,19 York Road,Manchester,M32 7HH,United Kingdom,53.46871,-2.22249
+ADDR-00337,CUST-00274,shipping,26 Windsor Drive,Norwich,NR6 6WY,United Kingdom,52.64717,1.29228
+ADDR-00338,CUST-00275,billing,81 Albert Street,London,NW2 4FZ,United Kingdom,51.52793,-0.14608
+ADDR-00339,CUST-00275,shipping,130 London Road,Manchester,M15 0DY,United Kingdom,53.49715,-2.21562
+ADDR-00340,CUST-00276,billing,1 High Street,Leeds,LS24 3AZ,United Kingdom,53.80781,-1.56034
+ADDR-00341,CUST-00277,billing,35 Alexandra Road,Manchester,M33 0NY,United Kingdom,53.45443,-2.21683
+ADDR-00342,CUST-00277,shipping,150 Castle Street,London,SW8 0ZN,United Kingdom,51.49494,-0.13551
+ADDR-00343,CUST-00278,billing,74 Chapel Street,Portsmouth,PO6 9SU,United Kingdom,50.83689,-1.10441
+ADDR-00344,CUST-00279,billing,2 West Street,London,WC2 7BQ,United Kingdom,51.49046,-0.13945
+ADDR-00345,CUST-00280,billing,138 New Road,London,W13 8DD,United Kingdom,51.48811,-0.15238
+ADDR-00346,CUST-00281,billing,112 Alexandra Road,Reading,RG6 4XY,United Kingdom,51.45560,-0.97495
+ADDR-00347,CUST-00282,billing,73 Park Avenue,Reading,RG6 5YP,United Kingdom,51.46659,-0.98396
+ADDR-00348,CUST-00283,billing,145 Church Lane,Preston,PR2 3AE,United Kingdom,53.78845,-2.71822
+ADDR-00349,CUST-00284,billing,49 Victoria Road,Birmingham,B27 7ZZ,United Kingdom,52.49761,-1.90498
+ADDR-00350,CUST-00285,billing,96 Park Avenue,London,SW14 4UW,United Kingdom,51.52724,-0.11985
+ADDR-00351,CUST-00286,billing,33 Willow Way,Edinburgh,EH11 7DA,United Kingdom,55.96274,-3.16486
+ADDR-00352,CUST-00286,shipping,42 Windsor Drive,Leicester,LE6 4TQ,United Kingdom,52.61406,-1.16075
+ADDR-00353,CUST-00287,billing,46 George Street,Swansea,SA6 6AE,United Kingdom,51.64571,-3.96227
+ADDR-00354,CUST-00288,billing,82 The Green,London,WC2 6QG,United Kingdom,51.49141,-0.14268
+ADDR-00355,CUST-00289,billing,5 Hillside Avenue,London,N2 0SD,United Kingdom,51.49417,-0.15313
+ADDR-00356,CUST-00290,billing,Dorpsstraat 108,Amsterdam,1030 NZ,Netherlands,52.34606,4.89946
+ADDR-00357,CUST-00291,billing,68 Albert Street,Hull,HU1 4FY,United Kingdom,53.79480,-0.30317
+ADDR-00358,CUST-00292,billing,34 York Road,Cardiff,CF20 6XS,United Kingdom,51.49936,-3.19249
+ADDR-00359,CUST-00293,billing,40 Elm Grove,Bradford,BD1 0FB,United Kingdom,53.81802,-1.76375
+ADDR-00360,CUST-00294,billing,66 Park Avenue,London,E13 7TS,United Kingdom,51.52913,-0.11438
+ADDR-00361,CUST-00295,billing,36 Park Avenue,London,N7 6NS,United Kingdom,51.48612,-0.14443
+ADDR-00362,CUST-00296,billing,130 Church Lane,Sunderland,SR1 7SB,United Kingdom,54.91030,-1.41310
+ADDR-00363,CUST-00296,shipping,75 Alexandra Road,Bristol,BS7 8NB,United Kingdom,51.44409,-2.60369
+ADDR-00499,CUST-00408,billing,27 Boulevard Saint-Michel,Lyon,69007,France,45.77780,4.82473
+ADDR-00364,CUST-00297,billing,150 Abbey Street,Limerick,V94 3Y9X,Ireland,52.68440,-8.61541
+ADDR-00365,CUST-00298,billing,53 Avenue Victor Hugo,Marseille,13007,France,43.27207,5.35949
+ADDR-00366,CUST-00299,billing,144 Mill Lane,London,EC1 8HF,United Kingdom,51.48152,-0.10021
+ADDR-00367,CUST-00300,billing,66 Grange Road,Liverpool,L38 9GJ,United Kingdom,53.41567,-2.96472
+ADDR-00368,CUST-00301,billing,21 York Road,Bristol,BS3 7RR,United Kingdom,51.46730,-2.56541
+ADDR-00369,CUST-00302,billing,61 The Green,London,WC1 5GJ,United Kingdom,51.48520,-0.12335
+ADDR-00370,CUST-00303,billing,119 Bridge Street,Bristol,BS7 7LX,United Kingdom,51.45309,-2.56487
+ADDR-00371,CUST-00303,shipping,17 Park Avenue,Sheffield,S19 5GR,United Kingdom,53.38119,-1.44836
+ADDR-00372,CUST-00304,billing,112 Manor Road,Birmingham,B39 7GR,United Kingdom,52.49267,-1.91025
+ADDR-00373,CUST-00305,billing,133 Castle Street,Aberdeen,AB12 2RQ,United Kingdom,57.12929,
+ADDR-00374,CUST-00305,shipping,34 North Street,London,E2 6DR,United Kingdom,51.52510,-0.10937
+ADDR-00375,CUST-00306,billing,62 Queens Road,Glasgow,G38 5FQ,United Kingdom,55.86172,-4.23465
+ADDR-00376,CUST-00307,billing,2 Alexandra Road,Portsmouth,PO2 5BR,United Kingdom,-1.06566,50.82462
+ADDR-00377,CUST-00308,billing,1 Bridge Street,London,N16 9NR,United Kingdom,51.52045,-0.13818
+ADDR-00378,CUST-00309,billing,5 Church Road,Limerick,V94 77A1,Ireland,52.65126,-8.60812
+ADDR-00379,CUST-00310,billing,22 Meadow View,Manchester,M21 3UL,United Kingdom,53.49714,-2.24684
+ADDR-00380,CUST-00311,billing,121 Grange Road,Chelmsford,CM2 7AN,United Kingdom,51.75117,0.44809
+ADDR-00381,CUST-00311,shipping,10 Bridge Street,Luton,LU3 1NT,United kingdom,51.89382,-0.40812
+ADDR-00382,CUST-00312,billing,Lindenallee 10,Munich,81048,Germany,48.11129,11.57773
+ADDR-00383,CUST-00313,billing,68 Springfield Road,Bristol,BS3 2QN,United Kingdom,51.45052,-2.59832
+ADDR-00384,CUST-00313,shipping,25 The Green,London,N8 2TJ,United Kingdom,51.48283,-0.13283
+ADDR-00385,CUST-00314,billing,20 Springfield Road,Belfast,BT8 0DS,United Kingdom,54.58680,-5.93187
+ADDR-00386,CUST-00315,billing,146 Manor Road,Manchester,M24 7FP,United Kingdom,53.47604,-2.26176
+ADDR-00387,CUST-00316,billing,130 Mill Road,Galway,H91 NGCX,Ireland,53.24652,-9.05994
+ADDR-00388,CUST-00316,shipping,34 Patrick Street,Cork,T12 BDVR,Ireland,51.92538,-8.48051
+ADDR-00389,CUST-00317,billing,46 Broad Street,Bournemouth,BH8 3FP,United Kingdom,50.73509,-1.87390
+ADDR-00390,CUST-00318,billing,24 Richmond Road,London,N2 7LE,United Kingdom,51.51334,-0.11588
+ADDR-00391,CUST-00319,billing,72 Richmond Road,London,WC2 3ZG,United Kingdom,51.50968,-0.10069
+ADDR-00392,CUST-00320,billing,110 York Road,Aberdeen,AB11 7YY,United Kingdom,57.13535,-2.08339
+ADDR-00393,CUST-00321,billing,57 Alexandra Road,London,NW7 6TJ,United Kingdom,51.53655,-0.11016
+ADDR-00081,CUST-00066,billing,85 Castle Street,London ,NW8 3UQ,United Kingdom,51.52796,-0.14571
+ADDR-00394,CUST-00322,billing,64 High Street,Bournemouth,BH11 4RF,United Kingdom,50.74132,-1.85385
+ADDR-00395,CUST-00323,billing,49 Park Avenue,Manchester,M12 6SE,United Kingdom,53.47167,-2.27125
+ADDR-00396,CUST-00324,billing,148 Abbey Street,Dublin,D13 AKPY,Ireland,53.34353,-6.26027
+ADDR-00397,CUST-00325,billing,39 Broad Street,London,NW7 6WH,United Kingdom,51.49895,-0.14855
+ADDR-00398,CUST-00326,billing,95 Bridge Street,Peterborough,PE4 3NZ,United Kingdom,52.55362,-0.21947
+ADDR-00399,CUST-00327,billing,138 Hillside Avenue,Birmingham,B20 8XY,United Kingdom,52.49870,-1.91640
+ADDR-00400,CUST-00328,billing,4 Meadow View,Southampton,SO15 0UP,United Kingdom,50.89144,-1.40262
+ADDR-00401,CUST-00329,billing,52 Alexandra Road,London,W4 0EZ,United Kingdom,51.52393,-0.10166
+ADDR-00402,CUST-00330,billing,57 Hillside Avenue,London,WC1 0FJ,United Kingdom,51.53326,-0.10217
+ADDR-00403,CUST-00331,billing,59 Springfield Road,Plymouth,PL6 3GR,United Kingdom,50.39857,-4.12505
+ADDR-00404,CUST-00332,billing,34 Willow Way,Middlesbrough,TS3 3LD,United Kingdom,54.57287,-1.24265
+ADDR-00405,CUST-00333,billing,78 Elm Grove,London,E18 7GZ,United Kingdom,51.51344,-0.15742
+ADDR-00406,CUST-00334,billing,126 Grange Road,London,SE25 6GU,United Kingdom,51.48113,-0.11498
+ADDR-00407,CUST-00334,shipping,125 Springfield Road,Bradford,BD11 2FY,United Kingdom,53.79941,-1.74847
+ADDR-00408,CUST-00335,billing,117 New Road,Manchester,M38 5SJ,United Kingdom,53.49126,-2.21870
+ADDR-00409,CUST-00335,shipping,78 West Street,London,NW5 2RQ,United Kingdom,51.48909,-0.12497
+ADDR-00410,CUST-00336,billing,30 The Green,London,SE9 0SE,United Kingdom,51.49656,-0.12409
+ADDR-00411,CUST-00336,shipping,116 Grange Road,Manchester,M7 5WQ,United Kingdom,53.45141,-2.26641
+ADDR-00412,CUST-00337,billing,85 New Road,London,NW1 6FR,United Kingdom,51.49648,-0.12348
+ADDR-00413,CUST-00337,shipping,149 Meadow View,London,SE15 7FR,United Kingdom,51.50355,-0.13641
+ADDR-00414,CUST-00338,billing,125 Church Lane,London,NW5 0RS,United Kingdom,51.48155,-0.12097
+ADDR-00415,CUST-00339,billing,87 London Road,Bournemouth,BH10 7BN,United Kingdom,50.70280,-1.88141
+ADDR-00416,CUST-00340,billing,149 Orchard Close,Milton Keynes,MK8 4RL,United Kingdom,52.05523,-0.76520
+ADDR-00417,CUST-00340,shipping,49 Meadow View,London,SE23 7TP,United Kingdom,51.49887,-0.13452
+ADDR-00418,CUST-00341,billing,108 Springfield Road,Luton,LU4 8QL,United Kingdom,51.87743,-0.43832
+ADDR-00419,CUST-00341,shipping,36 York Road,Bristol,BS13 2AR,United Kingdom,51.43089,-2.56602
+ADDR-00420,CUST-00342,billing,98 Elm Grove,Belfast,BT6 1WH,United Kingdom,-5.90410,54.57630
+ADDR-00421,CUST-00343,billing,45 Elm Grove,Coventry,CV6 9AG,United Kingdom,52.43454,-1.51479
+ADDR-00422,CUST-00344,billing,63 York Road,Leeds,LS6 6TU,United Kingdom,53.77185,-1.54779
+ADDR-00423,CUST-00345,billing,14 Castle Street,Leeds,LS23 0XB,United Kingdom,53.82178,-1.56694
+ADDR-00424,CUST-00346,billing,96 North Street,London,WC1 5GB,United Kingdom,51.49780,-0.11602
+ADDR-00425,CUST-00347,billing,42 Queens Road,London,EC3 5LP,United Kingdom,51.50021,-0.13488
+ADDR-00426,CUST-00348,billing,66 Kings Road,London,NW7 4HJ,United Kingdom,51.53026,-0.13151
+ADDR-00427,CUST-00349,billing,124 High Street,Birmingham,B8 0XE,United Kingdom,52.46161,-1.87511
+ADDR-00428,CUST-00350,billing,28 Chapel Street,London,E9 0PG,United Kingdom,51.50190,-0.12314
+ADDR-00429,CUST-00351,billing,31 Park Avenue,London,E11 3DH,United Kingdom,51.52842,-0.13223
+ADDR-00430,CUST-00352,billing,90 London Road,London,SW10 5YA,United Kingdom,51.49762,-0.13413
+ADDR-00431,CUST-00352,shipping,84 Queens Road,Liverpool,L9 7XH,United Kingdom,53.42197,-2.97744
+ADDR-00432,CUST-00353,billing,7 Hillside Avenue,London,SW15 9DY,United Kingdom,51.48563,-0.12962
+ADDR-00433,CUST-00354,billing,96 London Road,Exeter,EX2 1JF,United Kingdom,50.70893,-3.53577
+ADDR-00434,CUST-00355,billing,93 Kings Road,Bristol,BS1 3YX,United Kingdom,51.43962,-2.56128
+ADDR-00435,CUST-00356,billing,70 Hillside Avenue,Norwich,NR7 4RE,United Kingdom,52.62076,1.29387
+ADDR-00436,CUST-00356,shipping,145 Broad Street,London,W6 7SQ,United Kingdom,51.48681,-0.11689
+ADDR-00437,CUST-00357,billing,77 Kings Road,London,E3 5SJ,United Kingdom,51.50938,-0.15448
+ADDR-00438,CUST-00357,,130 Bridge Street,Sunderland,SR3 7NG,United Kingdom,54.89248,-1.39986
+ADDR-00439,CUST-00358,billing,49 West Street,Manchester,M24 2SP,United Kingdom,53.50695,-2.25630
+ADDR-00440,CUST-00359,billing,140 Bridge Street,Manchester,M29 6HE,United Kingdom,53.45832,-2.23529
+ADDR-00441,CUST-00359,shipping,1 Victoria Road,Sheffield,S11 5DF,United Kingdom,53.36195,-1.48868
+ADDR-00442,CUST-00360,billing,97 North Street,Manchester,M4 7YT,United Kingdom,53.48963,-2.26712
+ADDR-00443,CUST-00361,billing,141 Mill Lane,London,NW9 2DE,United Kingdom,51.48493,-0.13828
+ADDR-00444,CUST-00362,billing,23 York Road,London,SW19 1DX,United Kingdom,51.50063,-0.15627
+ADDR-00445,CUST-00363,billing,59 Mill Lane,Milton Keynes,MK11 6WR,United Kingdom,52.01727,-0.74880
+ADDR-00446,CUST-00364,billing,69 Meadow View,London,SW13 2UU,United Kingdom,51.50294,-0.12916
+ADDR-00447,CUST-00365,billing,29 Grange Road,Southampton,SO14 7GU,United Kingdom,50.89730,-1.43260
+ADDR-00448,CUST-00366,billing,134 The Green,Cardiff,CF13 9YQ,United Kingdom,51.45256,-3.20863
+ADDR-00449,CUST-00367,billing,115 Victoria Road,Derby,DE2 1TP,United Kingdom,52.89882,-1.46381
+ADDR-00450,CUST-00368,billing,141 Rue de la Paix,Paris,75008,France,48.85343,2.35192
+ADDR-00451,CUST-00369,billing,136 Chapel Street,Leeds,LS12 8AY,United Kingdom,53.81595,-1.52439
+ADDR-00452,CUST-00369,shipping,39 Kings Road,Plymouth,PL2 5ZB,United Kingdom,50.34842,-4.12722
+ADDR-00453,CUST-00370,billing,29 Chapel Street,Leeds,LS7 4ZW,United Kingdom,53.80897,-1.52847
+ADDR-00454,CUST-00371, billing,20 West Street,London,W2 7FQ,United Kingdom,51.53694,-0.14518
+ADDR-00455,CUST-00372,billing,94 Hillside Avenue,Hull,HU6 4XD,United Kingdom,53.77946,-0.31182
+ADDR-00456,CUST-00373,billing,11 Queens Road,Coventry,CV1 1HY,United Kingdom,52.40118,-1.54480
+ADDR-00457,CUST-00374,Billing,7 York Road,Nottingham,NG6 6DL,United Kingdom,52.95543,-1.13524
+ADDR-00074,CUST-00059,BILLING,23 The Green,London,SW12 8JT,United Kingdom,51.49754,-0.12013
+ADDR-00458,CUST-00375,billing,50 Park Avenue,Nottingham,NG8 6EQ,United Kingdom,52.93775,-1.15454
+ADDR-00459,CUST-00375,shipping,58 York Road,Plymouth,PL7 7LY,United Kingdom,50.34795,-4.14765
+ADDR-00460,CUST-00376,billing,131 Oak Tree Close,Birmingham,B34 0EY,United Kingdom,52.47175,-1.86132
+ADDR-00461,CUST-00377,billing,43 New Road,London,W4 9UE,United Kingdom,51.53046,-0.12513
+ADDR-00462,CUST-00377,shipping,19 Richmond Road,Glasgow,G20 2ZS,United Kingdom,55.86232,-4.28045
+ADDR-00463,CUST-00378,billing,85 New Road,Southampton,SO18 5TH,United Kingdom,50.90691,-1.41825
+ADDR-00464,CUST-00379,billing,2 High Street,Nottingham,NG2 8BG,United Kingdom,52.95541,-1.16228
+ADDR-00465,CUST-00380,billing,146 New Road,Cambridge,CB5 5QA,United Kingdom,52.20015,0.10863
+ADDR-00467,CUST-00382,billing,Calle Real 52,Madrid,28055,Spain,40.42438,-3.72116
+ADDR-00468,CUST-00383,billing,56 Alexandra Road,London,E5 9AH,United Kingdom,51.48993,-0.10575
+ADDR-00469,CUST-00384,billing,58 York Road,London,SE1 0HP,United Kingdom,51.48881,-0.13985
+ADDR-00470,CUST-00385,billing,10 Broad Street,Bradford,BD7 7YZ,United Kingdom,53.77834,-1.73368
+ADDR-00471,CUST-00385,shipping,131 Station Road,London,SW4 9XT,United Kingdom,51.48415,-0.11051
+ADDR-00472,CUST-00386,billing,138 New Road,Nottingham,NG18 4WS,United Kingdom,52.98292,-1.18644
+ADDR-00473,CUST-00387,billing,107 Elm Grove,Swansea,SA6 3ES,United Kingdom,51.59664,-3.97304
+ADDR-00474,CUST-00388,billing,76 Alexandra Road,London,NW2 4JU,United Kingdom,51.53224,-0.11654
+ADDR-00475,CUST-00389,billing,6 London Road,Leeds,LS15 9AL,United Kingdom,53.78487,-1.56793
+ADDR-00476,CUST-00389,shipping,26 Church Lane,London,EC2 8LH,United Kingdom,51.49004,-0.14671
+ADDR-00477,CUST-00390,billing,12 The Green,Sheffield,S20 5WR,United Kingdom,53.40161,-1.46496
+ADDR-00478,CUST-00391,billing,143 High Street,Glasgow,G41 4PD,United Kingdom,55.84093,-4.27054
+ADDR-00479,CUST-00392,billing,105 Kings Road,Liverpool,L15 5FX,United Kingdom,53.42245,-2.99487
+ADDR-00480,CUST-00393,billing,68 Manor Road,London,WC2 8AA,United Kingdom,51.48543,-0.09826
+ADDR-00481,CUST-00394,billing,134 George Street,Ipswich,IP3 7QP,United Kingdom,52.07193,1.12848
+ADDR-00482,CUST-00395,billing,56 The Green,Southampton,SO19 1AU,United Kingdom,50.90932,-1.43030
+ADDR-00483,CUST-00395,shipping,34 High Street,Liverpool,L13 0TH,United Kingdom,53.42516,-2.98858
+ADDR-00484,CUST-00396,billing,61 Orchard Close,London,EC2 6QY,United Kingdom,51.49069,-0.11728
+ADDR-00485,CUST-00396,shipping,29 High Street,Nottingham,NG5 4AR,United Kingdom,52.94012,-1.16635
+ADDR-00486,CUST-00397,billing,91 Kings Road,London,EC1 0DB,United Kingdom,51.50796,-0.12936
+ADDR-00487,CUST-00398,billing,119 Queens Road,Glasgow,G28 4QW,United Kingdom,-55.86637,-4.27673
+ADDR-00488,CUST-00399,billing,129 George Street,Guildford,GU1 2JF,United Kingdom,51.24382,-0.54107
+ADDR-00489,CUST-00400,billing,31 Elm Grove,Glasgow,G28 4FX,United Kingdom,55.83616,-4.25751
+ADDR-00490,CUST-00401,billing,3 Oak Tree Close,Sheffield,S4 8JA,United Kingdom,53.38592,-1.46470
+ADDR-00491,CUST-00402,billing,6 North Street,Luton,LU2 7SD,United Kingdom,51.89893,-0.41938
+ADDR-00492,CUST-00403,billing,72 North Street,Swansea,SA2 7JF,United Kingdom,51.64778,-3.91707
+ADDR-00493,CUST-00403,shipping,34 Alexandra Road,London,WC1 8ZN,United Kingdom,51.50773,-0.12153
+ADDR-00494,CUST-00404,billing,32 Orchard Close,Edinburgh,EH11 6ER,United Kingdom,55.92517,-3.18391
+ADDR-00495,CUST-00404,shipping,85 Bridge Street,Peterborough,PE2 0QN,United Kingdom,52.55241,-0.26360
+ADDR-00496,CUST-00405,billing,55 Windsor Drive,Birmingham,B39 5RL,United Kingdom,52.50639,-1.88342
+ADDR-00497,CUST-00406,billing,77 Castle Street,London,EC4 9GA,United Kingdom,51.50576,-0.10025
+ADDR-00498,CUST-00407,billing,98 Castle Street,London,W13 0SS,United Kingdom,51.49375,-0.12960
+ADDR-00499,CUST-00408,billing,27 Boulevard Saint-Michel,Lyon,69007,France,45.77780,4.82473
+ADDR-00500,CUST-00409,billing,88 Station Road,Bath,BA1 7UN,United Kingdom,51.40507,-2.38253
+ADDR-00501,CUST-00409,shipping,68 Springfield Road,Derby,DE1 9PQ,United Kingdom,52.90704,-1.49071
+ADDR-00502,CUST-00410,billing,120 Orchard Close,Manchester,M40 8DL,United Kingdom,53.50596,-2.26049
+ADDR-00503,CUST-00410,shipping,40 Hillside Avenue,London,EC4 1UW,United Kingdom,51.50784,-0.12423
+ADDR-00504,CUST-00411,billing,66 Alexandra Road,London,EC4 0YY,United Kingdom,51.51612,-0.15526
+ADDR-00505,CUST-00412,billing,115 Hillside Avenue,Aberdeen,AB11 1AD,United Kingdom,57.15633,-2.10462
+ADDR-00506,CUST-00412,shipping,106 Kings Road,Aberdeen,AB11 6BA,United Kingdom,57.17499,-2.07444
+ADDR-00507,CUST-00413,billing,10 Willow Way,Edinburgh,EH15 5XP,United Kingdom,55.93435,-3.15891
+ADDR-00508,CUST-00414,billing,110 Manor Road,London,N6 1PE,United Kingdom,51.50378,-0.11487
+ADDR-00509,CUST-00415,billing,88 George Street,Reading,RG9 3AP,United Kingdom,51.46355,-1.00015
+ADDR-00510,CUST-00415,shipping,106 Oak Tree Close,London,SW6 7FS,United Kingdom,51.52901,-0.10272
+ADDR-00511,CUST-00416,billing,6 Kings Road,Newcastle upon Tyne,NE28 3BT,United Kingdom,54.96477,-1.62322
+ADDR-00512,CUST-00417,billing,105 Main Street,Limerick,V94 6RFN,Ireland,52.67156,-8.64718
+ADDR-00513,CUST-00417,shipping,71 O'Connell Street,Limerick,V94 DET8,Ireland,-8.62987,52.63802
+ADDR-00514,CUST-00418,billing,104 Kings Road,Liverpool,L28 9SN,United Kingdom,53.41181,-2.97291
+ADDR-00515,CUST-00419,billing,90 Main Street,Cork,T12 D5BF,Ireland,51.88920,-8.45744
+ADDR-00516,CUST-00420,billing,Prinsengracht 90,Rotterdam,3081 ZW,Netherlands,51.94147,4.47954
+ADDR-00517,CUST-00421,billing,63 London Road,London,E6 1YP,United Kingdom,51.49179,-0.12070
+ADDR-00518,CUST-00422,billing,63 London Road,Norwich,NR7 9NL,United Kingdom,52.60512,1.28183
+ADDR-00519,CUST-00423,billing,121 High Street,Sunderland,SR1 9YW,United Kingdom,54.88812,-1.36252
+ADDR-00520,CUST-00424,billing,62 Orchard Close,Swansea,SA6 8RW,United Kingdom,51.62303,-3.91876
+ADDR-00521,CUST-00425,billing,62 Broad Street,London,SE25 8JE,United Kingdom,51.50315,-0.10075
+ADDR-00522,CUST-00425,shipping,68 Broad Street,Peterborough,PE1 4UW,United Kingdom,52.56049,-0.26563
+ADDR-00523,CUST-00426,billing,Kerkstraat 32,Rotterdam,3040 AT,Netherlands,51.89741,4.48975
+ADDR-00524,CUST-00427,billing,149 West Street,Birmingham,B43 7TE,United Kingdom,52.50441,-1.89095
+ADDR-00525,CUST-00428,billing,89 George Street,London,W8 7BU,United Kingdom,51.53726,-0.15662
+ADDR-00526,CUST-00429,billing,55 Windsor Drive,York,YO8 9ZX,United Kingdom,53.96863,-1.11566
+ADDR-00527,CUST-00430,billing,69 Manor Road,Bath,BA1 8SZ,United Kingdom,51.40663,-2.35342
+ADDR-00528,CUST-00430,shipping,116 Victoria Road,Aberdeen,AB14 7HF,United Kingdom,57.17537,-2.07137
+ADDR-00529,CUST-00431,billing,104 George Street,Brighton,BN3 5WD,United Kingdom,50.84892,-0.16319
+ADDR-00530,CUST-00432,billing,10 Grange Road,Oxford,OX3 8UN,United Kingdom,51.75017,-1.27416
+ADDR-00531,CUST-00433,billing,71 The Green,Sheffield,S11 3TQ,United Kingdom,53.38434,-1.49337
+ADDR-00532,CUST-00434,billing,92 Albert Street,Bristol,BS13 1LE,United Kingdom,51.42822,-2.59104
+ADDR-00533,CUST-00435,billing,20 Church Road,Cork,T12 E7D5,Ireland,51.91597,-8.49150
+ADDR-00534,CUST-00436,billing,40 York Road,Glasgow,G18 2XS,United Kingdom,55.84168,-4.26639
+ADDR-00535,CUST-00437,billing,120 Hillside Avenue,Leeds,LS17 2ZA,United Kingdom,53.77163,-1.56362
+ADDR-00536,CUST-00438,billing,57 Bridge Street,Guildford,GU4 6TD,United Kingdom,51.23761,-0.56788
+ADDR-00537,CUST-00976,billing,91 The Green,Sunderland,SR1 5XU,United Kingdom,54.89783,-1.36829
+ADDR-00538,CUST-00440,billing,5 New Road,Milton Keynes,MK5 6XF,United Kingdom,52.01819,-0.77871
+ADDR-00540,CUST-00442,billing,56 Queens Road,Liverpool,L40 7DZ,United Kingdom,53.41354,-2.99020
+ADDR-00541,CUST-00443,billing,103 Springfield Road,Cambridge,CB5 0LN,United Kingdom,52.23220,0.10634
+ADDR-00542,CUST-00444,billing,52 Willow Way,Bristol,BS1 0YP,United Kingdom,51.47157,-2.56035
+ADDR-00543,CUST-00445,billing,61 Queens Road,Hull,HU1 6TY,United Kingdom,53.79311,-0.32757
+ADDR-00544,CUST-00446,billing,26 Bridge Street,London,NW3 4ZL,United Kingdom,51.52749,-0.11062
+ADDR-00545,CUST-00447,billing,90 New Road,Dundee,DD2 7TW,United Kingdom,56.49025,-2.96254
+ADDR-00546,CUST-00448,billing,110 West Street,Glasgow,G29 4EA,United Kingdom,55.88259,-4.26085
+ADDR-00547,CUST-00448,shipping,60 West Street,Leicester,LE5 1HS,United Kingdom,52.62454,-1.15701
+ADDR-00548,CUST-00449,billing,93 London Road,Peterborough,PE4 8XE,United Kingdom,52.56843,-0.23628
+ADDR-00549,CUST-00450,billing,138 Albert Street,Bristol,BS15 4YY,United Kingdom,51.42491,-2.56009
+ADDR-00550,CUST-00451,billing,84 Windsor Drive,London,SE2 9PU,United Kingdom,51.50066,-0.10164
+ADDR-00551,CUST-00452,billing,106 Oak Tree Close,Bradford,BD12 4XG,United Kingdom,53.78350,-1.74103
+ADDR-00552,CUST-00453,billing,69 Broad Street,Norwich,NR3 3FH,United Kingdom,52.61854,1.32721
+ADDR-00553,CUST-00454,billing,9 Mill Road,Dublin,D14 ER2G,Ireland,53.37726,-6.25531
+ADDR-00554,CUST-00645,billing,30 Park Avenue,Oxford,OX4 5XN,United Kingdom,51.77482,-1.23345
+ADDR-00555,CUST-00456,billing,38 Queens Road,Southampton,SO19 7NT,United Kingdom,50.88582,-1.37811
+ADDR-00556,CUST-00457,billing,6 Grange Road,Bristol,BS4 7JJ,United Kingdom,51.42565,-2.60864
+ADDR-00557,CUST-00458,billing,7 High Street,Liverpool,L14 6JY,United Kingdom,53.41587,-3.00166
+ADDR-00558,CUST-00458,shipping,55 Windsor Drive,Northampton,NN3 4LJ,United Kingdom,52.21561,-0.88235
+ADDR-00559,CUST-00459,billing,147 Meadow View,Cambridge,CB2 1PY,United Kingdom,52.18814,0.11780
+ADDR-00560,CUST-00460,billing,131 York Road,Bournemouth,BH6 1JA,United Kingdom,50.71974,-1.85722
+ADDR-00561,CUST-00461,billing,11 Willow Way,Birmingham,B5 4RX,United Kingdom,52.50679,-1.91930
+ADDR-00562,CUST-00462,billing,138 Oak Tree Close,London,NW7 6HL,United Kingdom,51.51635,-0.11741
+ADDR-00563,CUST-00463,billing,28 Richmond Road,London,NW6 5NR,United Kingdom,51.50121,-0.10640
+ADDR-00564,CUST-00463,shipping,81 Park Avenue,London,WC2 4BD,United Kingdom,51.49615,-0.14136
+ADDR-00565,CUST-00464,billing,22 George Street,York,YO4 1PP,United Kingdom,53.98812,-1.06458
+ADDR-00566,CUST-00465,billing,105 Meadow View,Plymouth,PL6 5DY,United Kingdom,50.36272,-4.16566
+ADDR-00567,CUST-00466,billing,13 Oak Tree Close,Sheffield,S4 5TX,United Kingdom,53.38807,-1.45185
+ADDR-00568,CUST-00467,billing,30 Elm Grove,London,N11 0DL,United Kingdom,51.48029,-0.09873
+ADDR-00569,CUST-00468,billing,142 Kings Road,London,E2 1SY,United Kingdom,51.52099,-0.13933
+ADDR-00570,CUST-00468,shipping,108 Orchard Close,Belfast,BT4 5ED,United Kingdom,54.61119,
+ADDR-00571,CUST-00469,billing,111 The Green,London,NW11 8DH,United Kingdom,51.50883,-0.11182
+ADDR-00572,CUST-00470,billing,17 Rue de la Gare,Lyon,69009,France,45.78272,4.85191
+ADDR-00573,CUST-00470,shipping,119 Rue des Lilas,Marseille,13010,France,43.28745,5.38648
+ADDR-00574,CUST-00471,billing,98 Chapel Street,Sheffield,S20 1ZZ,United Kingdom,53.39628,-1.45494
+ADDR-00575,CUST-00472,billing,14 Queens Road,Belfast,BT15 7XJ,United Kingdom,54.61047,-5.90745
+ADDR-00576,CUST-00473,billing,101 Church Lane,Birmingham,B18 2YZ,United Kingdom,52.46978,-1.87694
+ADDR-00577,CUST-00474,billing,Stationsstraat 149,Utrecht,3521 ZD,Netherlands,52.11009,5.12786
+ADDR-00578,CUST-00474,shipping,Stationsstraat 86,Rotterdam,3057 ZS,Netherlands,51.94215,4.47515
+ADDR-00579,CUST-00475,billing,104 Bridge Street,London,SW20 5DT,United Kingdom,51.48251,-0.13154
+ADDR-00580,CUST-00476,billing,95 West Street,London,N3 5UT,United Kingdom,51.49845,-0.13820
+ADDR-00581,CUST-00477,billing,Stationsstraat 20,Amsterdam,1023 TX,Netherlands,52.36004,4.87763
+ADDR-00582,CUST-00478,billing,74 Victoria Road,Liverpool,L33 3JU,United Kingdom,53.42232,-3.01461
+ADDR-00583,CUST-00478,shipping,19 George Street,Manchester,M15 6YP,United Kingdom,53.47888,-2.25505
+ADDR-00584,CUST-00479,billing,113 Oak Tree Close,Peterborough,PE2 1JR,United Kingdom,52.57157,-0.25720
+ADDR-00585,CUST-00479,shipping,49 Meadow View,London,SW6 2HR,United Kingdom,51.49649,-0.14768
+ADDR-00586,CUST-00480,billing,53 Castle Street,Bath,BA2 3AS,United Kingdom,51.40480,-2.33584
+ADDR-00587,CUST-00481,billing,57 Manor Road,Glasgow,G17 3FD,United Kingdom,55.84694,-4.26515
+ADDR-00588,CUST-00482,billing,107 The Green,Swansea,SA7 7SB,United Kingdom,51.59898,-3.93547
+ADDR-00589,CUST-00483,billing,20 Albert Street,London,N14 8TL,United Kingdom,51.51302,-0.12999
+ADDR-00590,CUST-00484,billing,110 Windsor Drive,Bristol,BS2 7ZF, United Kingdom,51.44676,-2.58700
+ADDR-00591,CUST-00485,billing,15 Richmond Road,Liverpool,L12 7EB,United Kingdom,53.41494,-2.98049
+ADDR-00592,CUST-00486,billing,89 North Street,Cardiff,CF16 9PU,United Kingdom,51.46829,-3.19552
+ADDR-00593,CUST-00487,billing,113 Station Road,Middlesbrough,TS2 8QG,United Kingdom,54.55304,-1.25378
+ADDR-00594,CUST-00488,billing,102 Windsor Drive,London,EC4 7ZS,United Kingdom,51.52077,-0.09949
+ADDR-00595,CUST-00489,billing,89 Avenue Victor Hugo,Lyon,69007,France,45.78374,4.81775
+ADDR-00596,CUST-00490,billing,138 The Green,London,SW8 5AZ,United Kingdom,51.53453,-0.10143
+ADDR-00597,CUST-00491,billing,12 O'Connell Street,Limerick,V94 W5WE,Ireland,52.67460,-8.63896
+ADDR-00598,CUST-00492,billing,41 York Road,London,EC2 0EZ,United Kingdom,51.52568,-0.13480
+ADDR-00599,CUST-00493,billing,78 Rue des Lilas,Lyon,69009,France,45.73715,4.81976
+ADDR-00600,CUST-00494,billing,133 Chapel Street,Leicester,LE3 2SJ,United Kingdom,52.62976,-1.16238
+ADDR-00601,CUST-00495,billing,19 Castle Street,Manchester,M36 2DG,United Kingdom,53.49233,-2.22211
+ADDR-00602,CUST-00496,billing,109 The Green,Bristol,BS6 8SU,United Kingdom,51.44536,-2.60978
+ADDR-00603,CUST-00497,billing,139 Patrick Street,Galway,H91 447E,Ireland,53.29687,-9.06049
+ADDR-00604,CUST-00498,billing,126 Willow Way,Nottingham,NG4 9WD,United Kingdom,52.96174,-1.15453
+ADDR-00605,CUST-00498,shipping,104 Richmond Road,Birmingham,B37 6PL,United Kingdom,52.50456,-1.87543
+ADDR-00606,CUST-00499,billing,52 Queens Road,Northampton,NN5 6HT,United Kingdom,52.22717,-0.93088
+ADDR-00607,CUST-00500,billing,109 Patrick Street,Cork,T12 ARHR,Ireland,51.87741,-8.49460

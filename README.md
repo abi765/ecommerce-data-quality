@@ -4,7 +4,7 @@ You have received customer, product and order data exported from an e-commerce s
 
 ## Files
 
-- `data/practice/`: the three CSV exports
+- `data/practice/`: the four CSV exports. Phase 1 uses customers, products and orders. Phase 2 adds addresses.
 - `sql/01_create_tables.sql`: creates a `raw` schema with one table per file, every column as TEXT so the files load as they are
 - `sql/02_check_load.sql`: row counts to confirm the load
 - `docs/issues_log.csv`: empty template for the issues log
@@ -14,7 +14,7 @@ You have received customer, product and order data exported from an e-commerce s
 1. Create a database called `ecommerce` in your local PostgreSQL.
 2. In DBeaver, run `sql/01_create_tables.sql` against it.
 3. Import each CSV into its `raw` table using DBeaver's data import.
-4. Run `sql/02_check_load.sql`. Expect 510 customers, 52 products and 2,030 orders.
+4. Run `sql/02_check_load.sql`. Expect 510 customers, 52 products, 2,030 orders and 610 addresses.
 5. Optional: for Python, create a virtual environment and run `pip install -r requirements.txt`.
 
 ## Git workflow
@@ -48,7 +48,7 @@ Deliverables, in one pull request:
 
 ## Phase 2: addresses and mapping
 
-Starts after phase 1 is merged. A fourth file, `data/practice/addresses.csv`, will be added with addresses and coordinates for customers.
+Starts after phase 1 is merged. `data/practice/addresses.csv` holds one or more addresses per customer with coordinates, linked by `customer_id`.
 
 1. Load, profile, clean and validate it the same way as phase 1, linked to `clean.customers`.
 2. Install PostGIS and add a geometry column from the coordinates.
