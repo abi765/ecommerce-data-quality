@@ -35,3 +35,16 @@ CREATE TABLE raw.orders (
     payment_method  TEXT,
     order_status    TEXT
 );
+
+DROP TABLE IF EXISTS raw.addresses;
+CREATE TABLE raw.addresses (
+    address_id      TEXT,
+    customer_id     TEXT,
+    address_type    TEXT,
+    address_line_1  TEXT,
+    city            TEXT,
+    postcode        TEXT,
+    country         TEXT,
+    latitude        TEXT,
+    longitude       TEXT
+);
