@@ -243,7 +243,7 @@ ORDER BY category;
 
 -- ============================================================
 -- CHECK 8: CLEAN DATA SUMMARY
--- Expected: 2843 clean records
+-- Expected: 2841 clean records
 -- ============================================================
 
 SELECT

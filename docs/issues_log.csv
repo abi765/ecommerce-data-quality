@@ -1,10 +1,27 @@
 table,column,description,rows_affected,decision
-customers,All columns,Rejected customer records (total),15,Rejected; not loaded into clean.customers
-customers,customer_id,Missing or blank customer ID (included in 15 above),3,Reject; no safe customer ID to link records
-products,All columns,Rejected product records (total),2,Rejected; not loaded into clean.products
-products,All columns,Product records needing manual review (total),3,Held for review; not loaded into clean.products
-orders,All columns,Rejected order records (total),96,Rejected; not loaded into clean.orders
-orders,All columns,Order records needing manual review (total),219,Held for review; not loaded into clean.orders
-orders,order_date,Two orders dated 2035 (included in 219 above),2,Held for review: ORD-00070 and ORD-00763
-addresses,All columns,Rejected address records (total),16,Rejected; not loaded into clean.addresses
-addresses,All columns,Address records needing manual review (total),10,Held for review; not loaded into clean.addresses
+customers,customer_id,Duplicate after standardization,5,Reject; excluded from approved clean table
+customers,all columns,Exact duplicate source record,5,Reject; excluded from approved clean table
+customers,signup_date,Invalid signup_date,2,Reject; excluded from approved clean table
+customers,customer_id,Missing customer_id,3,Reject; excluded from approved clean table
+products,product_id,Duplicate after standardization,1,Reject; excluded from approved clean table
+products,all columns,Exact duplicate source record,1,Reject; excluded from approved clean table
+products,unit_price,Missing or non-positive product price,3,Hold for manual review; excluded from approved clean table
+orders,customer_id,Customer not found in approved customers,29,Reject; excluded from approved clean table
+orders,order_id,Duplicate after standardization,10,Reject; excluded from approved clean table
+orders,all columns,Exact duplicate source record,20,Reject; excluded from approved clean table
+orders,quantity,Invalid quantity,16,Reject; excluded from approved clean table
+orders,unit_price,Invalid unit_price,3,Reject; excluded from approved clean table
+orders,customer_id,Missing customer_id,8,Reject; excluded from approved clean table
+orders,order_date,Missing or invalid order_date,4,Reject; excluded from approved clean table
+orders,product_id,Product not found in approved products,6,Reject; excluded from approved clean table
+orders,payment_method,Missing payment method,14,Hold for manual review; excluded from approved clean table
+orders,order_date,Order date is in the future,2,Hold for manual review; excluded from approved clean table
+orders,product_id,Product requires review,194,Hold for manual review; excluded from approved clean table
+orders,order_status,Unapproved order status,4,Hold for manual review; excluded from approved clean table
+orders,payment_method,Unapproved payment method,6,Hold for manual review; excluded from approved clean table
+addresses,customer_id,Phase 2 preliminary address processing: Customer not found in approved customers,10,Reject; excluded from approved clean table
+addresses,address_id,Phase 2 preliminary address processing: Duplicate after standardization,2,Reject; excluded from approved clean table
+addresses,all columns,Phase 2 preliminary address processing: Exact duplicate source record,4,Reject; excluded from approved clean table
+addresses,address_type,Phase 2 preliminary address processing: Missing address_type,3,Hold for manual review; excluded from approved clean table
+addresses,"latitude, longitude",Phase 2 preliminary address processing: Missing coordinates,6,Hold for manual review; excluded from approved clean table
+addresses,"latitude, longitude",Phase 2 preliminary address processing: Possible swapped Lyon coordinates,1,Hold for manual review; excluded from approved clean table
