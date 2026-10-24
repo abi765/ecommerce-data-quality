@@ -1,1 +1,10 @@
 table,column,description,rows_affected,decision
+customers,All columns,Rejected customer records (total),15,Rejected; not loaded into clean.customers
+customers,customer_id,Missing or blank customer ID (included in 15 above),3,Reject; no safe customer ID to link records
+products,All columns,Rejected product records (total),2,Rejected; not loaded into clean.products
+products,All columns,Product records needing manual review (total),3,Held for review; not loaded into clean.products
+orders,All columns,Rejected order records (total),96,Rejected; not loaded into clean.orders
+orders,All columns,Order records needing manual review (total),219,Held for review; not loaded into clean.orders
+orders,order_date,Two orders dated 2035 (included in 219 above),2,Held for review: ORD-00070 and ORD-00763
+addresses,All columns,Rejected address records (total),16,Rejected; not loaded into clean.addresses
+addresses,All columns,Address records needing manual review (total),10,Held for review; not loaded into clean.addresses
